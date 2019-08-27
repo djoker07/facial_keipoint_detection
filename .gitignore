@@ -1,0 +1,2 @@
+# ignore the trained model as the file is too big
+saved_models/*
